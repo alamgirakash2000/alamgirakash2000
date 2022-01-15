@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Self Employment]
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alamgirakash2000](https://github.com/alamgirakash2000)
 
