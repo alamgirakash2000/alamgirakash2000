@@ -1,5 +1,5 @@
 <h1 align="center">MD ALAMGIR HOSSAIN</h1>
-<h3 align="center">Full-Stack Web Developer & Deep Learning Enthusiast & Undergrade student of EEE</h3>
+<h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrade student of EEE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamgirkash2000&label=Profile%20views&color=0e75b6&style=flat" alt="alamgirakash2000" /> </p>
 
