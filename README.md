@@ -10,11 +10,9 @@
   - Machine Learning
   - Biomedical Signal Analysis
 
-- 👨‍💻 All of my projects are available at [https://github.com/alamgirakash2000](https://github.com/alamgirakash2000)
-
-- 💬 Personal website - [https://alamgir.vercel.app](https://alamgir.vercel.app)
-
-- 📫 How to reach me **alamgirakash2000@gmail.com**
+👨‍💻 All of my projects are available at [https://github.com/alamgirakash2000](https://github.com/alamgirakash2000)
+💬 Personal website - [https://alamgir.vercel.app](https://alamgir.vercel.app)
+📫 How to reach me **alamgirakash2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
