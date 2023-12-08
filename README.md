@@ -1,13 +1,14 @@
 <h1 align="center">MD ALAMGIR HOSSAIN</h1>
-<h3 align="center">Full-Stack Web Developer<span color="blue"> & </span>Deep Learning Enthusiast <span color="blue"> & </span> Undergrade student of EEE</h3>
+<h3 align="center"> Final year undergrad student of Electrical and Electronic Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamgirkash2000&label=Profile%20views&color=0e75b6&style=flat" alt="alamgirakash2000" /> </p>
 
-
-
-- 🔭 I’m currently working on [Self Employment]
-
-- 🌱 I’m currently learning **Machine Learning**
+## Research Interests
+  - Signal Processing
+  - AI and Robotics
+  - Image Processing
+  - Machine Learning
+  - Biomedical Signal Analysis
 
 - 👨‍💻 All of my projects are available at [https://github.com/alamgirakash2000](https://github.com/alamgirakash2000)
 
