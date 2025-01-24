@@ -32,23 +32,9 @@
 
 ## 🏆 GitHub Stats
 
-<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamgirakash2000&show_icons=true&locale=en&layout=compact" alt="alamgirakash2000" /></p>
 
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alamgirakash2000&show_icons=true&hide_border=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alamgirakash2000&show_icons=true&locale=en" alt="alamgirakash2000" /></p>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamgirakash2000&theme=radical&show_icons=true&hide_border=true" width="48%" alt="Streak Stats"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamgirakash2000&theme=radical&show_icons=true&hide_border=true&layout=compact&count_private=true" width="48%" alt="Top Languages"/>
-
-  <!-- Total Contributions (Entire Timeline) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamgirakash2000&theme=radical" width="100%" alt="GitHub Profile Summary"/>
-
-  <!-- Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=alamgirakash2000&theme=radical&row=1&column=7" width="100%" alt="GitHub Achievements"/>
-
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alamgirakash2000&" alt="alamgirakash2000" /></p>
 
