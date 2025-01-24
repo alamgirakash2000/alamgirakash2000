@@ -1,14 +1,13 @@
 <h1 align="center">MD ALAMGIR HOSSAIN</h1>
-<h3 align="center"> Final year undergrad student of Electrical and Electronic Engineering</h3>
+<h3 align="center"> PhD Student, EECS department, University of Tennessee, Knoxville</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamgirkash2000&label=Profile%20views&color=0e75b6&style=flat" alt="alamgirakash2000" /> </p>
 
 ## Research Interests
-  - Signal Processing
-  - AI and Robotics
-  - Image Processing
-  - Machine Learning
-  - Biomedical Signal Analysis
+  - Reinforcement Learning
+  - Humanoid Robot
+  - Robotics
+  - Machine Learning & Deep Learning
 
 <p>👨‍💻 All of my projects are available at <a href="https://github.com/alamgirakash2000"> https://github.com/alamgirakash2000</a> </p>
 <p>💬 Personal website - <a href="https://alamgir.vercel.app"> https://alamgir.vercel.app</a> </p>
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alamgir-akash" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="alamgir-akash" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alamgirakash2000" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="alamgir-akash" height="30" width="40" /></a>
 </p>
 
 ### Total Profile Visitors 👀
