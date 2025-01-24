@@ -31,12 +31,12 @@
   </p>
 
 ### 📊 GitHub Activity
-![Git Wrapped](https://git-wrapped.com/YOUR_USERNAME)
+![Git Wrapped](https://git-wrapped.com/alamgirakash2000)
 
 ### 🔥 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=alamgirakash2000&show_icons=true&theme=dark&hide_border=true" width="48%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamgirakash2000&theme=dark&hide_border=true" width="48%">
 
 ### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamgirakash2000&theme=dark&hide_border=true&layout=compact" width="48%">
 
