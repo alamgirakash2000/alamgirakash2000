@@ -30,21 +30,13 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alamgirakash2000&theme=dark&show_icons=true&hide_border=true&layout=compact" width="48%"/>
   </p>
 
-## 🏆 GitHub Stats
+### 📊 GitHub Activity
+![Git Wrapped](https://git-wrapped.com/YOUR_USERNAME)
 
-<div align="center">
+### 🔥 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="48%">
 
-  <!-- General Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alamgirakash2000&show_icons=true&hide_border=true&theme=radical" width="48%" alt="GitHub Stats"/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamgirakash2000&theme=radical&show_icons=true&hide_border=true" width="48%" alt="Streak Stats"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alamgirakash2000&theme=radical&show_icons=true&hide_border=true&layout=compact" width="48%" alt="Top Languages"/>
-
-  <!-- GitHub Wrapped Contribution Stats -->
-  <img src="https://gitwrapped.com/api/alamgirakash2000/wrapped" width="48%" alt="GitHub Wrapped Stats"/>
-
-</div>
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact" width="48%">
 
