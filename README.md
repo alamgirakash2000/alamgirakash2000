@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alamgirakash2000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mhossa49@utk.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ahossa.cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="YOUR_SCHOLAR_LINK"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar"/></a>
   <img src="https://komarev.com/ghpvc/?username=alamgirkash2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
@@ -72,7 +72,7 @@ I'm a Computer Science graduate student at UTK working on **reinforcement learni
 
 <p align="left">
 <a href="https://linkedin.com/in/alamgirakash2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:mhossa49@utk.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
+<a href="ahossa.cs@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
