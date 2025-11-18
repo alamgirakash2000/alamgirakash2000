@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamgirkash2000&label=Profile%20views&color=0e75b6&style=flat" alt="alamgirakash2000" /> </p>
 
+<img src="https://github.com/user-attachments/assets/bcd9e797-6208-4343-b54b-7c0e283ec709" />
+
 ## Research Interests
   - Reinforcement Learning
   - Humanoid Robot
